@@ -2,4 +2,4 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-kursaterdogan&color=blueviolet)
 
-# Hi there I'm [Kürşat](https://kursaterdogan.github.io/)
+# Hi there, I'm [Kürşat](https://kursaterdogan.github.io/)
